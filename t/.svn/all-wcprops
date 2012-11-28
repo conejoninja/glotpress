@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/!svn/ver/721/trunk/t
+END
+test_validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/692/trunk/t/test_validation.php
+END
+test_misc.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/718/trunk/t/test_misc.php
+END
+test_format_rrc.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/718/trunk/t/test_format_rrc.php
+END
+init.php
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/658/trunk/t/init.php
+END
+all.php
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/!svn/ver/718/trunk/t/all.php
+END
+test_thing.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/718/trunk/t/test_thing.php
+END
+test_requests.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/711/trunk/t/test_requests.php
+END
+test_permissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/718/trunk/t/test_permissions.php
+END
+test_mo.php
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/718/trunk/t/test_mo.php
+END
+test_template.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/718/trunk/t/test_template.php
+END
+test_noop_translations.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/718/trunk/t/test_noop_translations.php
+END
+test_po.php
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/718/trunk/t/test_po.php
+END
+test_builtin_warnings.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/693/trunk/t/test_builtin_warnings.php
+END
+test_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/721/trunk/t/test_user.php
+END
+test_translation_entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/718/trunk/t/test_translation_entry.php
+END
+test_links.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/718/trunk/t/test_links.php
+END
+test_translations.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/718/trunk/t/test_translations.php
+END
+test_urls.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/718/trunk/t/test_urls.php
+END
+unittests-config-sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/406/trunk/t/unittests-config-sample.php
+END
+test_format_android.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/718/trunk/t/test_format_android.php
+END
+test_warnings.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/695/trunk/t/test_warnings.php
+END
+test_format_resx.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/718/trunk/t/test_format_resx.php
+END
+test_strings.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/406/trunk/t/test_strings.php
+END

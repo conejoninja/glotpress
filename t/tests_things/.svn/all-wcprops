@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/718/trunk/t/tests_things
+END
+test_thing_original.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/718/trunk/t/tests_things/test_thing_original.php
+END
+test_thing_project.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/718/trunk/t/tests_things/test_thing_project.php
+END
+test_thing_translation_set.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/524/trunk/t/tests_things/test_thing_translation_set.php
+END
+test_thing_translation.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/718/trunk/t/tests_things/test_thing_translation.php
+END

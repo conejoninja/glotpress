@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/!svn/ver/718/trunk/scripts
+END
+remove-multiple-currents.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/718/trunk/scripts/remove-multiple-currents.php
+END
+upgrade-set-permissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/718/trunk/scripts/upgrade-set-permissions.php
+END
+import.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/718/trunk/scripts/import.php
+END
+recheck-warnings.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/718/trunk/scripts/recheck-warnings.php
+END
+wporg2slug.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/718/trunk/scripts/wporg2slug.php
+END
+wipe-permissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/718/trunk/scripts/wipe-permissions.php
+END
+add-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/718/trunk/scripts/add-admin.php
+END
+regenerate-paths.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/718/trunk/scripts/regenerate-paths.php
+END
+import-originals.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/718/trunk/scripts/import-originals.php
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/718/trunk/scripts/export.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/728/trunk/gp-includes/formats
+END
+format_resx.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/728/trunk/gp-includes/formats/format_resx.php
+END
+format_rrc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/728/trunk/gp-includes/formats/format_rrc.php
+END
+format_strings.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/728/trunk/gp-includes/formats/format_strings.php
+END
+format_pomo.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/728/trunk/gp-includes/formats/format_pomo.php
+END
+format_android.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/728/trunk/gp-includes/formats/format_android.php
+END

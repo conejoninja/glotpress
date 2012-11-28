@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/728/trunk/gp-templates
+END
+project-edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/558/trunk/gp-templates/project-edit.php
+END
+projects.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/563/trunk/gp-templates/projects.php
+END
+translations.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/409/trunk/gp-templates/translations.api.php
+END
+project-new.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/558/trunk/gp-templates/project-new.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/466/trunk/gp-templates/footer.php
+END
+profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/714/trunk/gp-templates/profile.php
+END
+projects.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/495/trunk/gp-templates/projects.api.php
+END
+redirect.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/508/trunk/gp-templates/redirect.php
+END
+translation-row.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/723/trunk/gp-templates/translation-row.php
+END
+project.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/726/trunk/gp-templates/project.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/718/trunk/gp-templates/install.php
+END
+project-form.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/718/trunk/gp-templates/project-form.php
+END
+404.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/406/trunk/gp-templates/404.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/718/trunk/gp-templates/login.php
+END
+translation-set-edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/558/trunk/gp-templates/translation-set-edit.php
+END
+project.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/498/trunk/gp-templates/project.api.php
+END
+project-import.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/728/trunk/gp-templates/project-import.php
+END
+translation-set-new.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/558/trunk/gp-templates/translation-set-new.php
+END
+project-permissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/718/trunk/gp-templates/project-permissions.php
+END
+translations.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/728/trunk/gp-templates/translations.php
+END
+project-mass-create-sets.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/556/trunk/gp-templates/project-mass-create-sets.php
+END
+helper-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/724/trunk/gp-templates/helper-functions.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/718/trunk/gp-templates/header.php
+END
+translation-set-form.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/718/trunk/gp-templates/translation-set-form.php
+END

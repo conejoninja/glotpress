@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/721/trunk/gp-includes/things
+END
+validator-permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/718/trunk/gp-includes/things/validator-permission.php
+END
+translation.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/719/trunk/gp-includes/things/translation.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/721/trunk/gp-includes/things/user.php
+END
+original.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/663/trunk/gp-includes/things/original.php
+END
+project.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/718/trunk/gp-includes/things/project.php
+END
+translation-set.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/718/trunk/gp-includes/things/translation-set.php
+END
+permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/718/trunk/gp-includes/things/permission.php
+END
