@@ -60,6 +60,7 @@ gp_tmpl_header();
 		<?php gp_link_project( $sub_project, esc_html( $sub_project->name ) ); ?>
 		<?php gp_link_project_edit( $sub_project, null, array( 'class' => 'bubble' ) ); ?>
 		<?php if ( $sub_project->active ) echo "<span class='active bubble'>Active</span>"; ?>
+        <?php do_action("subprojects_menu_item", $sub_project); ?>
 	</dt>
 	<dd>
 		<?php echo esc_html( gp_html_excerpt( $sub_project->description, 111 ) ); ?>

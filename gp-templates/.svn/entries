@@ -264,29 +264,6 @@ nbachiyski
 
 1596
 
-project-clone.php
-file
-
-
-
-add
-
-d3aa2853cf3f4d39a75376946d82fcc0
-
-
-
-has-props
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-copied
-http://svn.glotpress.org/trunk/gp-templates/project-new.php
-730
-
 project-edit.php
 file
 
