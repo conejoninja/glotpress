@@ -109,7 +109,9 @@ class MO extends Gettext_Translations {
 
 	function export_translations($entry) {
 		//TODO: warnings for control characters
-		return implode(chr(0), $entry->translations);
+        //print_r($entry->translations);
+        return $entry->translations[0];
+		//return implode(chr(0), $entry->translations);
 	}
 
 	function export_headers() {
