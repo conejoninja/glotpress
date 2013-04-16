@@ -511,16 +511,16 @@ class GP_Locales {
 		$es_cl->slug = 'es-cl';
 		$es_cl->google_code = 'es';
 		$es_cl->facebook_locale = 'es_LA';
-		
-		$es_mx = new GP_Locale(); 
-		$es_mx->english_name = 'Spanish (Mexico)'; 
-		$es_mx->native_name = 'Español de México'; 
-		$es_mx->lang_code_iso_639_1 = 'es'; 
-		$es_mx->lang_code_iso_639_2 = 'spa'; 
-		$es_mx->country_code = 'mx'; 
-		$es_mx->wp_locale = 'es_MX'; 
-		$es_mx->slug = 'es-mx'; 
-		$es_mx->google_code = 'es'; 
+
+		$es_mx = new GP_Locale();
+		$es_mx->english_name = 'Spanish (Mexico)';
+		$es_mx->native_name = 'Español de México';
+		$es_mx->lang_code_iso_639_1 = 'es';
+		$es_mx->lang_code_iso_639_2 = 'spa';
+		$es_mx->country_code = 'mx';
+		$es_mx->wp_locale = 'es_MX';
+		$es_mx->slug = 'es-mx';
+		$es_mx->google_code = 'es';
 		$es_mx->facebook_locale = 'es_LA';
 
 		$es_pe = new GP_Locale();
@@ -775,7 +775,7 @@ class GP_Locales {
 		$haw->country_code = 'us';
 		$haw->wp_locale = 'haw_US';
 		$haw->slug = 'haw';
-		
+
 		$haz = new GP_Locale();
 		$haz->english_name = 'Hazaragi';
 		$haz->native_name = 'هزاره گی';
@@ -784,7 +784,7 @@ class GP_Locales {
 		$haz->country_code = 'af';
 		$haz->wp_locale = 'haz';
 		$haz->slug = 'haz';
-		
+
 		$he = new GP_Locale();
 		$he->english_name = 'Hebrew';
 		$he->native_name = 'עִבְרִית';
@@ -958,6 +958,15 @@ class GP_Locales {
 		$km->facebook_locale = 'km_KH';
 		$km->nplurals = 1;
 		$km->plural_expression = '0';
+
+		$km = new GP_Locale();
+		$km->english_name = 'Kinyarwanda';
+		$km->native_name = 'Kinyarwanda';
+		$km->lang_code_iso_639_1 = 'rw';
+		$km->lang_code_iso_639_2 = 'kin';
+		$li->lang_code_iso_639_3 = 'kin';
+		$km->country_code = 'rw';
+		$km->slug = 'rw';
 
 		$kn = new GP_Locale();
 		$kn->english_name = 'Kannada';
