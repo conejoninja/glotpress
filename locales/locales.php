@@ -1805,7 +1805,7 @@ class GP_Locales {
 
 	function &instance() {
 		if ( !isset( $GLOBALS['gp_locales'] ) )
-			$GLOBALS['gp_locales'] = new GP_Locales;
+			$GLOBALS['gp_locales'] = @new GP_Locales;
 		return $GLOBALS['gp_locales'];
 	}
 
