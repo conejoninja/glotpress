@@ -1669,20 +1669,33 @@ class GP_Locales {
 		$ur->slug = 'ur';
 		$ur->google_code = 'ur';
 
-		$uz = new GP_Locale();
-		$uz->english_name = 'Uzbek';
-		$uz->native_name = 'O‘zbekcha';
-		$uz->lang_code_iso_639_1 = 'uz';
-		$uz->lang_code_iso_639_2 = 'uzb';
-		$uz->country_code = 'uz';
-		$uz->wp_locale = 'uz_UZ';
-		$uz->slug = 'uz';
-		$uz->google_code = 'uz';
-		$uz->rtl = true;
-		$uz->nplurals = 1;
-		$uz->plural_expression = '0';
+        $uz = new GP_Locale();
+        $uz->english_name = 'Uzbek';
+        $uz->native_name = 'O‘zbekcha';
+        $uz->lang_code_iso_639_1 = 'uz';
+        $uz->lang_code_iso_639_2 = 'uzb';
+        $uz->country_code = 'uz';
+        $uz->wp_locale = 'uz_UZ';
+        $uz->slug = 'uz';
+        $uz->google_code = 'uz';
+        $uz->rtl = true;
+        $uz->nplurals = 1;
+        $uz->plural_expression = '0';
 
-		$vec = new GP_Locale();
+        $uzcy = new GP_Locale();
+        $uzcy->english_name = 'Uzbek (Cyrillic)';
+        $uzcy->native_name = 'O‘zbekcha';
+        $uzcy->lang_code_iso_639_1 = 'uz';
+        $uzcy->lang_code_iso_639_2 = 'uzb';
+        $uzcy->country_code = 'cy';
+        $uzcy->wp_locale = 'uz_CY';
+        $uzcy->slug = 'uz-cy';
+        $uzcy->google_code = 'uz-cy';
+        $uzcy->rtl = true;
+        $uzcy->nplurals = 1;
+        $uzcy->plural_expression = '0';
+
+        $vec = new GP_Locale();
 		$vec->english_name = 'Venetian';
 		$vec->native_name = 'vèneta';
 		$vec->lang_code_iso_639_1 = null;
